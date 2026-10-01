@@ -1,0 +1,3 @@
+[submodule "public/assets/storage/webgl/EggFriedRicePort"]
+    path = public/assets/storage/webgl/EggFriedRicePort
+    url = https://github.com/slqntdevss/EggFriedRicePort.git
